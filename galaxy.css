@@ -1,0 +1,66 @@
+@charset "UTF-8";
+.header {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color: white;
+    height: 500px;
+    width: 600px;
+	margin: auto;
+}
+.left{
+	float: left;
+	height: 200px;
+    width: 300px;
+}
+
+.right{
+	float: left;
+	height: 200px;
+    width: 300px;
+}
+
+#space-invader {
+      box-shadow: 0 0 0 1em white,
+      0 1em 0 1em white,
+      -2.5em 1.5em 0 .5em white,
+      2.5em 1.5em 0 .5em white,
+      -3em -3em 0 0 white,
+      3em -3em 0 0 white,
+      -2em -2em 0 0 white,
+      2em -2em 0 0 white,
+      -3em -1em 0 0 white,
+      -2em -1em 0 0 white,
+      2em -1em 0 0 white,
+      3em -1em 0 0 white,
+      -4em 0 0 0 white,
+      -3em 0 0 0 white,
+      3em 0 0 0 white,
+      4em 0 0 0 white,
+      -5em 1em 0 0 white,
+      -4em 1em 0 0 white,
+      4em 1em 0 0 white,
+      5em 1em 0 0 white,
+      -5em 2em 0 0 white,
+      5em 2em 0 0 white,
+      -5em 3em 0 0 white,
+      -3em 3em 0 0 white,
+      3em 3em 0 0 white,
+      5em 3em 0 0 white,
+      -2em 4em 0 0 white,
+      -1em 4em 0 0 white,
+      1em 4em 0 0 white,
+      2em 4em 0 0 white;
+      background: white;
+      width: 1em;
+      height: 1em;
+      overflow: hidden;
+      margin: 
+		  70px 100px 70px 65px;
+    }
+  
+.second{
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color: white;
+    height: 500px;
+    width: 600px;
+	margin: auto;
+}
